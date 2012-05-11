@@ -3,10 +3,27 @@
  * Plugin Name: MW Theme Switcher on WPtap
  * Plugin URI: http://2inc.org
  * Description: WPtap Mobile Detector を使用中の場合、フッターにPC<=>モバイルの切り替えボタンを表示するプラグインです。
- * Version: 0.1
- * Author: kitajima takashi
+ * Version: 0.2
+ * Author: Takashi Kitajima
  * Author URI: http://2inc.org
-*/
+ * Modified: May 12, 2012
+ * License: GPL2
+ *
+ * Copyright 2012 Takashi Kitajima (email : inc@2inc.org)
+ * 
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License, version 2, as
+ * published by the Free Software Foundation.
+ * 
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ * 
+ * You should have received a copy of the GNU General Public License
+ * along with this program; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
+ */
 class mw_theme_switcher_on_wptap {
 
 	const FLG = "viewmode";
